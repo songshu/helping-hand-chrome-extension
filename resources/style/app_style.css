@@ -1,0 +1,22 @@
+body {
+  background-color: #dadada;
+  color: #000;
+  min-width: 200px;
+  min-height: 50px;
+}
+
+h1 {
+  display: block;
+  font-size: 1em;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a:focus {
+  outline: none;
+}
