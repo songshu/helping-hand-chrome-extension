@@ -1,4 +1,4 @@
-# Helping Hand Chrome extension (skeleton).
+# Helping Hand Chrome Extension (skeleton).
 
 A base extension for starting out projects.
 
